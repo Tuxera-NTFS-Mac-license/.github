@@ -1,6 +1,6 @@
 ## Tuxera NTFS Mac Single License
 
-<img src="https://static.macupdate.com/products/26288/l/paragon-ntfs-logo.png?v=1667978083" width="200" alt="App icon" align="left"/>
+<img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1447090756923-TNTFS.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Tuxera NTFS for macOS</h3>
